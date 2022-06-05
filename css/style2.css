@@ -34,10 +34,10 @@
   
   nav{
     position: relative;
-    top: -55px;
+    top: -30px;
     float: right;
-    width: 550px;
-    font-size: 170%;
+    width: 500px;
+    font-size: 100%;
 }
 
 nav ul{
@@ -126,7 +126,7 @@ nav ul li:active{background-color:rgb(48,48,48)}
     background: black;
     color: white;
     flex: 0 0 auto;
-    font-size: 120%;
+    font-size: 100%;
     text-align: left;
     padding-right: 510px;
   }
